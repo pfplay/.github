@@ -1,50 +1,47 @@
 <div align="center">
 
-# 🎧 PFPlay
+# PFPlay
 
-### PFP Playground for Music
+### 틀어놓기만 해도 다시 모이는 음악 공간
 
-**Where NFTs meet DJing — a new music digging culture**
+**바이브코딩 하다가 빌드 기다릴 때, 토큰 부족해서 멍 때릴 때.**
+**옆에 켜두고 심심풀이 할 수 있는 음악 디제잉 커뮤니티.**
 
-[![Website](https://img.shields.io/badge/pfplay.xyz-Visit%20Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pfplay.xyz)
-[![Email](https://img.shields.io/badge/gm%40pfplay.io-Contact%20Us-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gm@pfplay.io)
-
----
+[![Website](https://img.shields.io/badge/pfplay.xyz-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pfplay.xyz)
+[![Email](https://img.shields.io/badge/gm%40pfplay.io-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gm@pfplay.io)
 
 </div>
 
-## What is PFPlay?
+---
 
-PFPlay is an interactive **music streaming platform** that combines PFP NFTs with DJing.
-We're building a community space where users share and discover music, blending Web3 technology with musical experiences.
+관계가 끊어진 게 아닙니다. **다시 만날 구실이 없었을 뿐입니다.**
+
+PFPlay는 음악을 틀어놓는 것만으로 사람들이 다시 모이는 공간입니다.
+약속 없이도, 노력 없이도, 같은 방에서 같은 음악을 들으며 이어지는 **느슨한 재연결**.
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎵 Party Room
-Connect wallets, create rooms, and build communities around music taste. Be a DJ or a listener.
+**Party Room** — 들어와서 같이 듣기만 해도 됩니다.
 
-### 🎛️ DJing
-Join the DJ queue and play songs in turn — shared in real-time with live reactions from everyone.
+**DJing** — 내 차례가 오면 한 곡 틀고, 반응을 받습니다.
 
 </td>
 <td width="50%">
 
-### 🏆 Participate & Earn
-Earn PFPlay Tokens (PFT) by participating. Use them for new avatars or room customization.
+**Reputation** — 반응이 쌓이면 음악 취향이 평판이 됩니다.
 
-### 🖼️ Onchain Experience
-Activate your NFTs as avatars. Mint your playlists into NFTs — curate, own, and trade.
+**Onchain** — 잊혀진 NFT가 아바타로 부활하고, 플레이리스트가 자산이 됩니다.
 
 </td>
 </tr>
 </table>
 
----
+> 접속 허들은 낮추고, 머무는 이유는 계속 만들어주는 구조.
 
 <div align="center">
 
-**Built with ❤️ in Seoul, South Korea**
+**Built in Seoul**
 
 </div>
