@@ -6,7 +6,7 @@
 
 **Where NFTs meet DJing — a new music digging culture**
 
-[![Website](https://img.shields.io/badge/pfplay.io-Visit%20Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pfplay.xyz)
+[![Website](https://img.shields.io/badge/pfplay.xyz-Visit%20Site-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pfplay.xyz)
 [![Email](https://img.shields.io/badge/gm%40pfplay.io-Contact%20Us-4ECDC4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gm@pfplay.io)
 
 ---
